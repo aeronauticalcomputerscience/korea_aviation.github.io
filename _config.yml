@@ -1,26 +1,26 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: 항공학과 컴퓨터 공학 - Aeronautical Science & Computer Science
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: 항공학과 컴퓨터 공학을 다룹니다. Handles aeronautical science and computer science. \n Google ad 등을 달 수도 있습니다. \n 어떠한 저작권 침해라도 있는 경우 메일 주세요. 감사합니다. If there are any copyright violations with my articles, please tell me via my e-mail. Thank you.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "http://korea_aviation.github.io/"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Wants to become a pilot"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -68,10 +68,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "com.science.with.aviation@gmail.com"
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -251,6 +251,5 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
