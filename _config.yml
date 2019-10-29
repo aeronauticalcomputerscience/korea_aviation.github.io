@@ -11,7 +11,7 @@ description: 항공학과 컴퓨터 공학을 다룹니다. Handles aeronautical
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://korea_aviation.github.io/"
+url: "https://korea_aviation.github.io/"
 
 # baseurl should be an empty string
 baseurl: ""
