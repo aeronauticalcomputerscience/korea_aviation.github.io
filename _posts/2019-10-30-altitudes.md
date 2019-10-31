@@ -4,7 +4,7 @@ title: "비행 중 준수하여야 할 고도들 - Altitudes needed to comply wi
 date: 2019-10-30 15:21:00
 categories: General Informations
 ---
-#비행 중 중 준수하여야 할 고도들 - Altitudes needed to comply with
+# 비행 중 중 준수하여야 할 고도들 - Altitudes needed to comply with
 ###FAA와 ICAO, 그리고 대한민국 - FAA, ICAO and Korea Ministry of Land, Infrastructure and Transport
 * 한글 버전
 
