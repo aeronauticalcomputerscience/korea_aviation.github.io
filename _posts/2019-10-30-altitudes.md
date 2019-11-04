@@ -156,4 +156,8 @@ When MEA is changed between two fixes or navigation aids, crossing the fix under
 If MCA is shown with other altitude restrictions like MTA, prefix **MCA** is shown.
  
 #### MVA and MIA Charts
-1. MVA(Minimum Vector Altitude)\ 
+1. MVA(Minimum Vector Altitude)
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MjI4OTc3NzZdfQ==
+-->
