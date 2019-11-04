@@ -70,8 +70,8 @@ IFR 항공도에 도식되어 있는 고도를 통해 결정된다. 만약 도�
 1. Restrictive Altitudes  
 항공로를 따라 설정되는 고도들이다. 아래 표와 같은 고도들이 설정된다.
 
-| 종류 | 설명 | 예시 |
-|---|:---:|---:|
+|종류|설명|예시|
+|---|---|---|
 |추천되는 고도|별도의 선 없이 표시되는 고도|![REC_ALT](../img/tpp-altitudes-recommended.jpg)|
 |최저 고도|고도 아래에 실선|![MIN_ALT](../img/tpp-altitudes-minimum.jpg)|
 |최대 고도|고도 위에 실선|![MIN_ALT](../img/tpp-altitudes-maximum.jpg)|
@@ -156,6 +156,5 @@ MCA is the lowest altitude that the pilot must comply while crossing the fix.
 When MEA is changed between two fixes or navigation aids, crossing the fix under MCA can make any issues with obstacle clearance.
 If MCA is shown with other altitude restrictions like MTA, prefix **MCA** is shown.
  
- #### MVA and MIA Charts
- 1. MVA(Minimum Vector Altitude)\
- 
+#### MVA and MIA Charts
+1. MVA(Minimum Vector Altitude)\ 
