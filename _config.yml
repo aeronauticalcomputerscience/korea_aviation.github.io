@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: 항공학과 컴퓨터 공학 - Aeronautical Science & Computer Science
+title: Aeronautical Science & Computer Science
 
 # Short description of your site
-description: 항공학과 컴퓨터 공학을 다룹니다. Handles aeronautical science and computer science. \n Google ad 등을 달 수도 있습니다. \n 어떠한 저작권 침해라도 있는 경우 메일 주세요. 감사합니다. If there are any copyright violations with my articles, please tell me via my e-mail. Thank you.
+description: Handles aeronautical science and computer science. If there are any copyright violations with my articles, please tell me via my e-mail. Thank you.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
