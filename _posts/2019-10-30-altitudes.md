@@ -6,8 +6,7 @@ categories: General Information
 ---
 # 비행 중 중 준수하여야 할 고도들 - Altitudes needed to comply with
 ### FAA와 ICAO, 그리고 대한민국 - FAA, ICAO and Korea Ministry of Land, Infrastructure and Transport
-* 한글 버전
-
+* 한글 버전  
 비행 중 준수하여야 할 사항들은 아주 많다. 
 그중에서도 가장 중요한 것은 ATC의 지시다. 
 그러나 그에 못지 않게 규정 고도 역시 중요하다.
@@ -21,7 +20,7 @@ VFR 환경에서는 비행 계획 단계에서 최저 장애물 회피 고도의
 ## FAA 기준
 모든 고도 정보는 평균해수면 기준으로 표시됨.
 #### Sectional Chart & Terminal Area Chart에 도식되는 고도
-1. MEF(Minimum Elevation Figure)\
+1. MEF(Minimum Elevation Figure)  
 해당 고도가 명시되어 있는 사각 격자 안의 지형물 중 가장 높은 것의 고도이다. 
 구체적인 수치가 아닌 100ft 단위로 명시되어 있으며, 5^1 = 5,100ft, 6^8=6,800ft, 13^5=13,500ft과 같이 해석된다.
 이 고도 이상에서 비행한다면, 장애물 회피를 보장받는다.  
@@ -32,13 +31,13 @@ ex) 13110(가장 높은 장애물의 평균 해수면 높이) + 100(발생 가�
 
 
 #### IFR Low, High Enroute Chart & Area Chart에 도식되는 고도 
-1. MEA(Minimum Enroute Altitude)\
+1. MEA(Minimum Enroute Altitude)  
 Radio Fixes 사이에서 항법 신호의 원할한 수신과 장애물 회피를 보장하는 최저 고도이다. 
 전환 구역에서는 최소 300ft, 관제 구역에서는 최소 500ft의 Buffer를 가지도록 설계된다. 
 장애물, 항법 시설 성능, 통신 요구 사항을 고려하여 결정한다.  
 GNSS(Global Navigation Satelite System) MEA는 파란색과 접미사 "G"로 표시된다.
 
-2. MRA(Minimum Reception Altitude)\
+2. MRA(Minimum Reception Altitude  
 항로와 Fix를 결정하는 항법 시설의 신호 수신을 보장하는 최저 고도이다. 만약 MEA보다 높은 값을 가지게 된다면, MRA 이상에서만 교차점이 정의된다.
 항법 시설 혹은 Fix에 표시되며, MRA 지시어와 함께 표시된다.
 
